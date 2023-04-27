@@ -1,0 +1,30 @@
+C:\Users\edgard\Documents\Programação facu\estudo\bin\Debug\net7.0\estudo.exe
+C:\Users\edgard\Documents\Programação facu\estudo\bin\Debug\net7.0\estudo.deps.json
+C:\Users\edgard\Documents\Programação facu\estudo\bin\Debug\net7.0\estudo.runtimeconfig.json
+C:\Users\edgard\Documents\Programação facu\estudo\bin\Debug\net7.0\estudo.dll
+C:\Users\edgard\Documents\Programação facu\estudo\bin\Debug\net7.0\estudo.pdb
+C:\Users\edgard\Documents\Programação facu\estudo\obj\Debug\net7.0\estudo.csproj.AssemblyReference.cache
+C:\Users\edgard\Documents\Programação facu\estudo\obj\Debug\net7.0\estudo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edgard\Documents\Programação facu\estudo\obj\Debug\net7.0\estudo.AssemblyInfoInputs.cache
+C:\Users\edgard\Documents\Programação facu\estudo\obj\Debug\net7.0\estudo.AssemblyInfo.cs
+C:\Users\edgard\Documents\Programação facu\estudo\obj\Debug\net7.0\estudo.csproj.CoreCompileInputs.cache
+C:\Users\edgard\Documents\Programação facu\estudo\obj\Debug\net7.0\estudo.dll
+C:\Users\edgard\Documents\Programação facu\estudo\obj\Debug\net7.0\refint\estudo.dll
+C:\Users\edgard\Documents\Programação facu\estudo\obj\Debug\net7.0\estudo.pdb
+C:\Users\edgard\Documents\Programação facu\estudo\obj\Debug\net7.0\estudo.genruntimeconfig.cache
+C:\Users\edgard\Documents\Programação facu\estudo\obj\Debug\net7.0\ref\estudo.dll
+C:\Users\edgard\Documents\Programação facu\Aula 1\bin\Debug\net7.0\estudo.exe
+C:\Users\edgard\Documents\Programação facu\Aula 1\bin\Debug\net7.0\estudo.deps.json
+C:\Users\edgard\Documents\Programação facu\Aula 1\bin\Debug\net7.0\estudo.runtimeconfig.json
+C:\Users\edgard\Documents\Programação facu\Aula 1\bin\Debug\net7.0\estudo.dll
+C:\Users\edgard\Documents\Programação facu\Aula 1\bin\Debug\net7.0\estudo.pdb
+C:\Users\edgard\Documents\Programação facu\Aula 1\obj\Debug\net7.0\estudo.csproj.AssemblyReference.cache
+C:\Users\edgard\Documents\Programação facu\Aula 1\obj\Debug\net7.0\estudo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edgard\Documents\Programação facu\Aula 1\obj\Debug\net7.0\estudo.AssemblyInfoInputs.cache
+C:\Users\edgard\Documents\Programação facu\Aula 1\obj\Debug\net7.0\estudo.AssemblyInfo.cs
+C:\Users\edgard\Documents\Programação facu\Aula 1\obj\Debug\net7.0\estudo.csproj.CoreCompileInputs.cache
+C:\Users\edgard\Documents\Programação facu\Aula 1\obj\Debug\net7.0\estudo.dll
+C:\Users\edgard\Documents\Programação facu\Aula 1\obj\Debug\net7.0\refint\estudo.dll
+C:\Users\edgard\Documents\Programação facu\Aula 1\obj\Debug\net7.0\estudo.pdb
+C:\Users\edgard\Documents\Programação facu\Aula 1\obj\Debug\net7.0\estudo.genruntimeconfig.cache
+C:\Users\edgard\Documents\Programação facu\Aula 1\obj\Debug\net7.0\ref\estudo.dll
